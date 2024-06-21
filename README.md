@@ -4,7 +4,7 @@ This is a simple backend server built with Express and TypeScript to handle form
 ## Setup
 
 1. Clone the repository:
-   git clone <repository-url>
+   git clone (https://github.com/hurrakx99/Backend-Server)
    cd express-ts-backend
 
 2. Install dependencies:
